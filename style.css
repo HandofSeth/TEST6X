@@ -1,0 +1,17 @@
+body {
+  background: url(./heaven.jpg);
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card {
+  height: 200px;
+  width: 200px;
+  background-image: url(./télécharger.png);
+
+  margin-left: 710px;
+  margin-top: 250px;
+}
